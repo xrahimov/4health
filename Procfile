@@ -1,0 +1,1 @@
+web: sh -c 'cd ./server/src && node index.js'
